@@ -1,0 +1,19 @@
+.globalFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: fit-content;
+    height: 50vh;
+    /* rajout antoine */
+    position:absolute;
+    bottom:0;
+  }
+  
+  .footerImg {
+    /*Reprise antoine*/
+    height: 100%;
+    /**/
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
